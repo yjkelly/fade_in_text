@@ -1,0 +1,19 @@
+body{
+  background:url('https://aos.iacpublishinglabs.com/question/aq/1400px-788px/what-large-mountain-range-is-found-north-of-india_8ed497c83e8c8219.jpg?domain=cx.aos.ask.com');
+  background-size:cover;
+}
+
+
+.box{
+  text-align:center;
+  position:relative;
+  top:100px;
+  color:#fff;
+    font-size:20px;
+  line-height:50px;
+}
+
+#fIn{
+  display:none;
+}
+
